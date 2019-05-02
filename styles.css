@@ -108,16 +108,17 @@ ul.skills {
 }
 
 .skills li {
-  border-radius: 6px;
+  border-radius: 50px;
   display: inline-block;
   background: #ff9904;
   color: white;
-  padding: 5px 10px;
-  margin: 2px;
+  padding: 16px 10px;
+  margin: 51px;
 }
 
 .skills li:nth-child(odd) {
   background: #0399ff;
+  
 }
 
 footer {
@@ -144,7 +145,7 @@ footer ul li {
 a.social {
   display: inline-block;
   text-indent: -9999px;
-  margin-left: 5px;
+  margin-left: 15px;
   width: 30px;
   height: 30px;
   background-size: 30px 30px;
