@@ -107,13 +107,19 @@ ul.skills {
   text-align: center;
 }
 
+ul.skills li {
+  margin: 20px;
+ }
+
 .skills li {
   border-radius: 50px;
   display: inline-block;
   background: #ff9904;
   color: white;
-  padding: 16px 10px;
-  margin: 51px;
+  padding: 22px 2px;
+  margin: 2px;
+  height: 62px;
+  width: 62px;
 }
 
 .skills li:nth-child(odd) {
