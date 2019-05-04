@@ -88,6 +88,7 @@
     background-color: #222;
     color: yellow;
   }
+  
   .card {
     margin: 30px;
     padding: 20px 40px 40px;
@@ -98,10 +99,13 @@
     border-radius: 6px;
     transition: all .5s;
   }
+  .round-borders {
+    border-radius: 6px; }
   .card:hover {
-    border-color: #ff99ff;
+    border-color: pink;
   }
   
+
   ul.skills {
     padding: 0;
     text-align: center;
