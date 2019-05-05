@@ -88,7 +88,9 @@
     background-color: #222;
     color: yellow;
   }
-  
+  .h2 {
+    text-shadow: 2px 2px 5px black;
+  }
   .card {
     margin: 30px;
     padding: 20px 40px 40px;

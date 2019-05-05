@@ -91,7 +91,11 @@ header .profile-image:hover {
   background-color: palegoldenrod;
   color: black;
 }
+.h2 {
+  text-shadow: 2px 2px 5px black;
+}
 .card {
+  
   margin: 30px;
   padding: 20px 40px 40px;
   max-width: 500px;
@@ -117,7 +121,7 @@ ul.skills li {
 .skills li {
   border-radius: 50%;
   display: inline-block;
-  background: palegoldenrod;
+  background: peru;
   color: white;
   padding: 22px 2px;
   margin: 2px;
@@ -126,7 +130,7 @@ ul.skills li {
 }
 
 .skills li:nth-child(odd) {
-  background: palevioletred;
+  background: maroon;
   
 }
 
