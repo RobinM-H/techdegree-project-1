@@ -87,6 +87,18 @@ header .profile-image:hover {
   display: table;
   margin: 10px auto;
 } 
+
+.tag2{
+  opacity: 0.7;
+  background-color: palegoldenrod;
+  color: black;
+  padding: 10px;
+  border-radius: 5px;
+  display: table;
+  margin: 150px auto;
+  
+}
+
 .location {
   opacity: 0.7;
   background-color: palegoldenrod;
@@ -116,7 +128,6 @@ ul.skills {
   padding: 0;
   text-align: center;
 }
-
 ul.skills li {
   margin: 20px;
  }
@@ -201,7 +212,7 @@ a.social:hover {
   header {
     min-height: 470px;
   }
-
+  
   .nav {
     max-width: 1200px;
     padding: 0 30px;
