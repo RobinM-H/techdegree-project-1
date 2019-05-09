@@ -104,7 +104,7 @@ header .profile-image:hover {
   background-color: palegoldenrod;
   color: black;
 }
-.h2 {
+h2 {
   text-shadow: 2px 2px 5px black;
   color:palegoldenrod;
 }
